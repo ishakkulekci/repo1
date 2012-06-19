@@ -1,4 +1,4 @@
 repo1
 =====
 
-repo1
+Test amaçlı açtığım github repository.
